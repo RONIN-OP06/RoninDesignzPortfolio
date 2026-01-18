@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1768002895237",
+    "name": "ronin",
+    "email": "ashlillymatthee@gmail.com",
+    "password": "$2b$10$vO0hUgtUKiMo3xU8wX9Kcu6BobuLHow9xFrPyLssSKtNR3x77BRQ.",
+    "phone": "0657365099",
+    "createdAt": "2026-01-09T23:54:55.237Z"
+  },
+  {
+    "id": "1768267742125",
+    "name": "Ronin Phoenix Harry Beerwinkel",
+    "email": "roninsyoutub123@gmail.com",
+    "password": "$2b$10$VlkA9EJkbN5YzkJLkDcYz.jqt4aCxHdyoSzG.aA7LLVG4Zjidi/Xa",
+    "phone": "0657365099",
+    "createdAt": "2026-01-13T01:29:02.126Z"
+  }
+]
